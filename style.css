@@ -59,3 +59,22 @@ h1 {
     border-radius: 95%;
     margin-right: 20%;
 }
+
+#link-vanish {
+    text-decoration: none;
+}
+
+.half-width-exp1 {
+    width: 50%;
+}
+
+.half-width-exp2 {
+    width: 50%;
+    padding-right: 35px;
+    margin: 150 40 100px 40px;
+    box-shadow: 0 0 16px black;
+    border-left: 5px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    border-radius: 5px;
+}
