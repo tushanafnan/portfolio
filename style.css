@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.main-size {
+    font-size: 40px;
+}
+
+.amazon {
+    color: orangered;
+}
+
+.display {
+    display: flex;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    position: relative;
+    float: left;
+}
+
+.half-width {
+    width: 100%;
+    margin-right: 10%;
+    padding-left: 10%;
+}
+
+.pic {
+    width: 100%;
+    border-radius: 95%;
+    margin-left: 25px;
+}
