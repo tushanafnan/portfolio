@@ -4,11 +4,20 @@ body {
 }
 
 h1 {
-    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 50px;
 }
 
 .main-size {
     font-size: 40px;
+}
+
+.button {
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
 }
 
 .amazon {
