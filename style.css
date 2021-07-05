@@ -35,14 +35,27 @@ h1 {
     float: left;
 }
 
+.second-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
 .half-width {
     width: 100%;
     margin-right: 10%;
     padding-left: 10%;
+    padding-bottom: 150px;
 }
 
 .pic {
     width: 100%;
     border-radius: 95%;
     margin-left: 25px;
+}
+
+.pic-two {
+    width: 100%;
+    border-radius: 95%;
+    margin-right: 20%;
 }
